@@ -1,2 +1,4 @@
 # effective-python
-Unofficial sample code for the book Effective Python by Brett Slatkin
+Unofficial sample code for:
+ - The official Python docs
+ - The book Effective Python by Brett Slatkin
