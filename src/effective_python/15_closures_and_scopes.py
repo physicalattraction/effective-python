@@ -6,5 +6,5 @@ class Sorter:
     def __call__(self, x):
         if x in self.group:
             self.found = True
-            return (0,x)
-        return (1,x)
+            return (0, x)
+        return (1, x)
